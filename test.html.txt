@@ -2,7 +2,7 @@
 <head>
 <body>
 
-welcome to my pc
+<h1>welcome to my pc
 
 </body>
 </head>
